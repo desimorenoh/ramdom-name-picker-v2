@@ -1,3 +1,5 @@
+
+
 const arr = ["Anna Girona",
             "Sonia",
             "Desiree",
@@ -22,6 +24,7 @@ const arr = ["Anna Girona",
             "Tamara",
             "Valentina",
             "Kristina"];
+
 let resto = ["Anna Girona",
             "Sonia",
             "Desiree",
